@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-link.active {
+    color: #ff8800 !important; /* Custom color for active links */
+    font-weight: bold;
+}
